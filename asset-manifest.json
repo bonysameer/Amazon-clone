@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Amazon-clone/static/css/main.76b170af.css",
+    "main.js": "/Amazon-clone/static/js/main.f786420d.js",
+    "static/media/amazon-e-commerce-wallaper2.jpg": "/Amazon-clone/static/media/amazon-e-commerce-wallaper2.c79d4296ec97d11dfeea.jpg",
+    "static/media/productone.png": "/Amazon-clone/static/media/productone.81b2e8d2acf1f6c3e41b.png",
+    "static/media/image1.jpg": "/Amazon-clone/static/media/image1.a52e2f284158f9e850fa.jpg",
+    "static/media/Amazon_logo.png": "/Amazon-clone/static/media/Amazon_logo.aa0b0515993df2e50980.png",
+    "static/media/amazon-final-logo-removebg-preview.png": "/Amazon-clone/static/media/amazon-final-logo-removebg-preview.b80664ef4357ef1a473b.png",
+    "index.html": "/Amazon-clone/index.html",
+    "main.76b170af.css.map": "/Amazon-clone/static/css/main.76b170af.css.map",
+    "main.f786420d.js.map": "/Amazon-clone/static/js/main.f786420d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76b170af.css",
+    "static/js/main.f786420d.js"
+  ]
+}
